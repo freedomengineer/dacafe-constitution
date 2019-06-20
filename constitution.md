@@ -1,4 +1,4 @@
-# CONSTITUTION of eosDAC
+# CONSTITUTION of EOS Cafe DAC (daCafé)
 
 [A decentralized autonomous community]
 
@@ -8,37 +8,37 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 || Expression: | Meaning: |
 |-|-----------|---------|
-| 1.1 | **Registration** |    means the process prescribed by the DAC, pursuant to and/or in accordance with the Constitution, whereby DAC Tokens are activated or enabled through the use of prescribed software, as a method by which, and for the purposes of, accepting a DAC Token and constituting the holder thereof as a Member of the DAC and subject to the Constitution and the Terms and Conditions, to the extent of such DAC Tokens held from time to time |
+| 1.1 | **Registration** |    means the process prescribed by the DAC, pursuant to and/or in accordance with the Constitution, whereby BEAN Tokens are activated or enabled through the use of prescribed software, as a method by which, and for the purposes of, accepting a BEAN Token and constituting the holder thereof as a Member of the DAC and subject to the Constitution and the Terms and Conditions, to the extent of such BEAN Tokens held from time to time |
 | 1.2 | **Blockchain** | or "distributed ledger technology" means a consensus of replicated, shared and synchronized digital data geographically spread across multiple sites, countries and institutions |
 | 1.3 | **Constitution** | This Constitution as originally framed or as from time to time amended, restated, supplemented or otherwise modified in accordance with the Constitution |
 | 1.4 | **Custodian** | means a member of the Custodian Board |
-| 1.5 | **Custodian Board** | or "Board"means the representative and governance board of the DAC that, save and except for the Genesis Board, shall consist of a maximum of twelve (12) persons appointed by the Members in accordance with the provisions of the Constitution, which Custodian Board shall be first constituted upon the transfer of the DAC Tokens onto an EOSIO blockchain and the initialization of a voting Dapp, and which Board shall have such powers and duties as are set out in the Constitution |
+| 1.5 | **Custodian Board** | or "Board"means the representative and governance board of the DAC that, save and except for the Genesis Board, shall consist of a maximum of twelve (21) persons appointed by the Members in accordance with the provisions of the Constitution, which Custodian Board shall be first constituted upon the transfer of the BEAN Tokens onto an EOSIO blockchain and the initialization of a voting Dapp, and which Board shall have such powers and duties as are set out in the Constitution |
 | 1.6 | **Custodian Proposal** | means a proposal submitted by a Custodian to the Custodian Board for consideration and determination by the Custodian Board |
-| 1.7 | **DAC** | the eosDAC decentralized autonomous community of Members governed by and administered in accordance with the terms and conditions of the Constitution, which community of Members shall be collectively referred to as the "eosDAC" |
-| 1.8 | **DAC Token** | means an eosDAC Token, the acceptance of which shall constitute the holder thereof as a Member of the DAC, represent the membership of such holder of the DAC and facilitate the automated governance of the DAC, all subject to and in accordance with the provisions of the Constitution |
+| 1.7 | **DAC** | the EOS Cafe DAC (daCafé) decentralized autonomous community of Members governed by and administered in accordance with the terms and conditions of the Constitution, which community of Members shall be collectively referred to as the "EOS Acfe DAC" or "daCafé" |
+| 1.8 | **BEAN Token** | means an BEAN Token, the acceptance of which shall constitute the holder thereof as a Member of the DAC, represent the membership of such holder of the DAC and facilitate the automated governance of the DAC, all subject to and in accordance with the provisions of the Constitution |
 | 1.9 | **DAPP** | means a decentralized application running on a Blockchain |
-| 1.10 | **Extraordinary Resolution** | means a resolution, determination or decision consented to by not less than 83% of the Custodians constituting the Custodian Board casting votes on such resolution, determination or decision |
-| 1.11 | **Genesis Member** | means BlockMaker Ltd, a company duly incorporated under the Anguilla International Business Companies Act (c. I20) |
-| 1.12 | **Genesis Board** | means BlockMaker Ltd, in the capacity of, and which shall be deemed, the Custodian Board pending the constitution of the first Custodian Board pursuant to and in accordance with the Constitution |
+| 1.10 | **Extraordinary Resolution** | means a resolution, determination or decision consented to by not less than 90% of the Custodians constituting the Custodian Board casting votes on such resolution, determination or decision |
+| 1.11 | **Genesis Member** | means EOS Cafe Foundation, a foundation duly incorporated under the Anguilla International Business Companies Act (c. I20) |
+| 1.12 | **Genesis Board** | means EOS Cafe Foundation, in the capacity of, and which shall be deemed, the Custodian Board pending the constitution of the first Custodian Board pursuant to and in accordance with the Constitution |
 | 1.13 | **Member** | means a member of the DAC, entitled, _qua_ Member, to all the benefits and subject to all the obligations set out in the Constitution |
 | 1.14 | **Nomination Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the procedure, qualifications (including staking) and mechanism for the nomination, election and appointment of Custodians to the Custodian Board |
 | 1.15 | **Person** | means an individual, a corporation, a trust, the estate of a deceased individual, a partnership or an unincorporated association of persons |
 | 1.16 | **Proposal** | means a proposal submitted by a Member to the Custodian Board for consideration and determination by the Custodian Board, in accordance with the provisions of the Constitution, and shall include but not be limited to proposals on bounties, technical choices, services providers, contingency levels and allocations of tokens raised through block production by or through the DAC |
-| 1.17 | **Quorum** | when used in relation to Members of the DAC means the minimum number of DAC Tokens linked to votes cast by Members, in relation to any matter prescribed by the Constitution to be subject to the determination by Members, required to render such vote valid, and when used in relation to the Custodian Board means the minimum number of Custodians present and able to cast votes, in relation to any matter prescribed by the Constitution to be subject to the determination by the Custodian Board, required to render such vote valid |
+| 1.17 | **Quorum** | when used in relation to Members of the DAC means the minimum number of BEAN Tokens linked to votes cast by Members, in relation to any matter prescribed by the Constitution to be subject to the determination by Members, required to render such vote valid, and when used in relation to the Custodian Board means the minimum number of Custodians present and able to cast votes, in relation to any matter prescribed by the Constitution to be subject to the determination by the Custodian Board, required to render such vote valid |
 | 1.18 | **Proposal Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the subject matter of, and the procedure, qualifications and mechanism for, the submission of Proposals by Members or Custodians to the Custodian Board for their consideration and determination |
-| 1.19 | **Resolution** | means a resolution, determination or decision consented to by a majority of Custodians of the Custodian Board casting votes on such resolution, determination or decision |
+| 1.19 | **Resolution** | means a resolution, determination or decision consented to by not less than 60% of Custodians of the Custodian Board casting votes on such resolution, determination or decision |
 | 1.20 | **Special Resolution** | means a resolution, determination or decision consented to by not less than 75% of Custodians of the Custodian Board casting votes on such resolution, determination or decision |
-| 1.21 | **Stake** | when used in reference to the DAC tokens refers to the mechanism by which DAC tokens are rendered non transferrable by the holder thereof, and upon such terms (including slashing clauses) and for such period, as prescribed by any Nomination Directive, Proposal Directive or Voting Directive and/or pursuant to the Constitution |
-| 1.22 | **Terms &amp; Conditions** | means the terms and conditions relating to the DAC and DAC Tokens, attached to the Schedule to this Constitution and incorporated into this Constitution and from time to time |
+| 1.21 | **Stake** | when used in reference to the BEAN tokens refers to the mechanism by which BEAN tokens are rendered non transferrable by the holder thereof, and upon such terms (including slashing clauses) and for such period, as prescribed by any Nomination Directive, Proposal Directive or Voting Directive and/or pursuant to the Constitution |
+| 1.22 | **Terms &amp; Conditions** | means the terms and conditions relating to the DAC and BEAN Tokens, attached to the Schedule to this Constitution and incorporated into this Constitution and from time to time |
 | 1.23 | **Tokens** | means any cryptographically secured digital representation of a set of rights, including smart contracts, provided on a digital platform and includes any fractional part thereof |
-| 1.24 | **Token Distribution** | means the initial distribution of the DAC Tokens by the Genesis Member to specified persons, or their assignees or transferees, inviting such persons to accept and hold DAC Tokens, _gratis_, and to become members of the DAC |
+| 1.24 | **Token Distribution** | means the initial distribution of the BEAN Tokens by the Genesis Member to specified persons, or their assignees or transferees, inviting such persons to accept and hold BEAN Tokens, _gratis_, and to become members of the DAC |
 | 1.25 | **Voting Directive** | means rules and regulations, approved by Special Resolution, as amended, restated, supplemented or otherwise modified from time to time, prescribing the subject matter of (where applicable), and the procedure, qualifications and mechanism for, voting by Members and Custodians, including but not limited to quorums, consensus and staking of DAC Tokens |
-| 1.26 | **Website** | means the website published and maintained by or on behalf of the DAC and hosted at [https://eosdac.io/](https://eosdac.io/) or such other URL prescribed by Resolution. |
+| 1.26 | **Website** | means the website published and maintained by or on behalf of the DAC and hosted at [https://eos.cafe](https://dacafe.io/) or such other URL prescribed by Resolution. |
 | 1.27 | **Written** | or any term of like import includes words typewritten, printed, painted, engraved, lithographed, photographed or represented or reproduced by any mode of representing or reproducing words in a visible form, including telex, telegram, facsimile, cable or other form of writing produced by electronic communication |
 
 &nbsp;&nbsp;&nbsp; **1.28** Whenever the singular or plural number, or the masculine, feminine or neuter gender is used in this Constitution, it shall equally, where the context admits, include the others
 
-&nbsp;&nbsp;&nbsp; **1.29** A reference in this Constitution to voting in relation to Members shall be construed as a reference to voting by Members to the extent of the number of DAC Tokens held by such Members, with the votes being allocated to the number of such DAC Tokens being counted as voted and not the number of Members who actually voted
+&nbsp;&nbsp;&nbsp; **1.29** A reference in this Constitution to voting in relation to Members shall be construed as a reference to voting by Members to the extent of the number of BEAN Tokens held by such Members, with the votes being allocated to the number of such BEAN Tokens being counted as voted and not the number of Members who actually voted
 
 &nbsp;&nbsp;&nbsp; **1.30** A reference to money in this Constitution is, unless otherwise stated, a reference to the _fiat_ currency of any nationality
 
@@ -64,7 +64,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 &nbsp;&nbsp;&nbsp; **2.3** To the furthest extent permissible the provisions of the Constitution shall be interpreted in a manner consistent with the core principles.
 
-# 3. **DAC TOKENS AND MEMBERSHIP**
+# 3. **BEAN TOKENS AND MEMBERSHIP**
 
 &nbsp;&nbsp;&nbsp; **3.1** __Nature:__ DAC Tokens shall, upon registration, constitute and represent the holder thereof as a Member of the DAC, to the extent of DAC Tokens held from time to time, and shall enable the automated governance of the DAC, all subject to and in accordance with the provisions of the Constitution.
 
@@ -312,232 +312,24 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 # **SCHEDULE**
 
-# **TERMS AND CONDITIONS**
-
-These Terms and Conditions (the &quot;T&amp;C&quot;) apply to each holder of the eosDAC token(s) and/or member of the eosDAC decentralized autonomous community. PLEASE READ THESE TERMS CAREFULLY BEFORE ACCEPTING EOSDAC TOKENS AND/OR PARTICIPATING IN THE MEMBERSHIP OF THE EOSDAC. THE T&amp;C AFFECTS THE LEGAL RIGHTS AND OBLIGATIONS OF HOLDERS OF EOSDAC TOKENS AND/OR MEMBERS OF THE EOSDAC, INCLUDING, BUT NOT LIMITED TO, WAIVERS OF RIGHTS AND LIMITATION OF LIABILITY. IF ANY PERSON OR ENTITY DOES NOT AGREE TO THE TERMS AND CONDITIONS HEREOF, SUCH PERSON OR ENTITY MUST NOT ACCEPT THE EOSDAC TOKEN(S).
-
-By accepting and holding eosDAC token(s), holder thereof agrees with each other holder of eosDAC token(s), from time to time and _inter se_, to be bound by the T&amp;C, and shall be bound by the terms and conditions thereof, along with such further or other terms and conditions incorporated by reference in the T&amp;C including but not limited to the Constitution (as hereinafter defined). The acceptance and holding of eosDAC token(s) is made expressly subject to this T&amp;C.
-
-NOW THEREFORE in consideration of the mutual promises contained in this T&amp;C it is hereby agreed as follows:
-
-**Binding Agreement**
-
-1. The following terms and conditions constitute the agreement (&quot;Agreement&quot;) by and between any person or entity accepting and holding an eosDAC token (or any fractional part thereof) (&quot;Member&quot;), and each other person or entity accepting or holding an eosDAC token (or any fractional part thereof), _inter se_. By accepting and holding an eosDAC token, or any fractional part thereof (&quot;Token&quot;), the Member hereof agrees to be, and shall be constituted, without more, as a member of the eosDAC decentralized autonomous community (&quot;eosDAC&quot;) and shall be bound by the T&amp;C, as amended from time to time. The Member is aware that eosDAC may change the T&amp;C at any time and in any manner, in accordance with the constitution governing the organization, rights and liabilities of the eosDAC and the members thereof (&quot;Constitution&quot;).
-
-2. By accepting a Token, Member confirms that it is the holder of the Token, a member of the eosDAC and has read, understands and agrees to the T&amp;C. A person or entity shall indicate their acceptance of a Token by:
-
-&nbsp;&nbsp;&nbsp;(a) In the case of any initial recipient of a Token (or assignee/transferee thereof), pursuant to the Token Distribution (as defined hereinafter), by registering the Token through the eosDAC software.
-
-&nbsp;&nbsp;&nbsp;(b) In any other case, by accepting the transfer or assignment of a Token from a holder of Tokens and/or registering the Token through the eosDAC software.
-
-&nbsp;&nbsp;&nbsp;(c) In either case, and in any event, by any usage of Tokens including but not limited to exercise of voting rights or receipt of distributions of assets.
-
-3. BlockMaker Ltd has prepared a website, available at www.eosdac.io (&quot;Website&quot;), describing the proposed activities of eosDAC and the mechanisms through which such activities shall be conducted. By accepting and holding a Token, Member confirms that it has read and understands the Website.
 
 
 
-**The eosDAC**
-
-4. eosDAC is an decentralized autonomous community governed by the Constitution of eosDAC and administered through the medium of blockchain technology. The use of a blockchain technology enables eosDAC to be decentralized and governed, in accordance with its Constitution, on an automated basis. The terms and conditions of the Constitution are incorporated by reference into the T&amp;C and shall be binding on each member of the eosDAC, _inter se_. By accepting and holding a Token, Member also confirms that it has read, understands and agrees to the terms and conditions of the Constitution and the rules of governance of the eosDAC.
-
-
-
-**The eosDAC Tokens (&quot;Token&quot;)**
-
-5. BlockMaker Ltd shall distribute an initial supply of 1, 200, 000, 000 (One Billion and Two Hundred Million) Tokens to specified persons or entities, inviting such persons or entities, or their transferees or assignees, (&quot;Token Distribution&quot;) to accept and hold such Tokens, _gratis_, and to become a member of the eosDAC.
-
-6. Tokens are not redeemable by Member or eosDAC but Member may request cancellation of Tokens, in accordance with the provisions of the Constitution, whereupon the membership linked to such cancelled Tokens shall expire immediately and Member shall be entitled to no further rights and shall be subject to no further obligations in and under eosDAC with respect to said Tokens, save and except such rights and obligations accrued to Member to the date of cancellation of said Tokens.
-
-7. During the Token Distribution, Tokens shall be distributed by BlockMaker Ltd in the following tranches:
-
-&nbsp;&nbsp;&nbsp;(a) 75% to holders of EOS tokens as at 1:00 UTC on 15thApril 2018, on the basis of one (1) eosDAC token for each one (1) EOS token held by a person or entity in an account with balance in excess 100 EOS (or, upon request, with a balance of less than 100 EOS) (&quot;Open Token Distribution&quot;).
-
-Any tokens not distributed from this tranche shall be &quot;burnt&quot; thereby permanently removing same from circulation.
-
-&nbsp;&nbsp;&nbsp;(b) 25% to launch team, advisors, community supporters and eosDAC Ltd.
-
-8. Each Token shall constitute the holder thereof as a member of the eosDAC, entitled to all the benefits and subject to all the obligations set out in the Constitution.
-
-9. The acceptance and holding of Tokens shall constitute the holder thereof as a member of the eosDAC in proportion to the number of Tokens held by such holder. By accepting and holding a Token, Member is constituted as the holder of such Token and as a member of the eosDAC.
-
-10. Beyond membership and automated governance of the eosDAC in accordance with its Constitution, a Token does not maintain, represent or enable any rights, uses, purpose, attributes, functionalities or features, express or implied. Immediately upon transfer or cancellation of a Token, Member shall cease to be a member of the eosDAC to the extent of the Token transferred or cancelled.
-
-11. A Token does not grant the holder thereof the right to any part of the share capital of BlockMaker Ltd, to any vote at any shareholders meeting of BlockMaker Ltd or to any voting rights with respect the appointment of directors or managers of BlockMaker Ltd. Tokens are not being distributed by BlockMaker Ltd in exchange for or in expectation of any monetary or other consideration. Tokens shall be non-refundable and non-redeemable. Tokens are not, and are not intended to be an investment, security, commodity or any other financial instrument or investment.
-
-12. Member expressly acknowledges and represents that it has carefully reviewed the T&amp;C and fully understands the risks and benefits associated with the acceptance and holding of the Tokens.
-
-
-
+**The daCafé**
+**The daCafé Tokens (&quot;Token&quot;)**
 **Token Distribution Restrictions**
-
-13. No U.S. Persons: The Tokens are not being and/or are not intended to be distributed to any S. Person, citizen, resident or entity (&quot;Excluded Person&quot;) pursuant to the Open Token Distribution. If any Excluded Person accepts or purports to accept any Tokens pursuant to the Open Token Distribution by BlockMaker Ltd, such person would have taken such action in an inapplicable, unauthorized and/or unlawful manner and the Tokens shall not be deemed as accepted by such Excluded Person. Any Excluded Person who accepts Tokens pursuant to the Open Token Distribution shall be solely liable for any legal, regulatory, judicial or contractual consequences therefrom and shall indemnify, defend and hold harmless BlockMaker Ltd, eosDAC and any member, employee, officer, director, consultant, advisor, parents, subsidiaries, affiliates, servants or agents, past, present or future, thereof (collectively &quot;Indemnified EP&quot;) from any penalties, damages, losses, liability, costs or expenses, whether direct or indirect, consequential, compensatory, punitive, actual, exemplary, incidental or special and including without limitation any loss of business, revenues, profits, data, use, goodwill or other intangible losses (collectively, &quot;EP Damages&quot;)  arising out of or related to such Excluded Person&#39;s acceptance or purported acceptance of Tokens pursuant to the Open Token Distribution.
-
-
-
 **Knowledge Required**
-
-14. Member acknowledges and agrees that it has sufficient knowledge in technological, business and financial matters, including but not limited to sufficient understanding of blockchain, digital ledger technology, cryptographic tokens, digital assets, smart contracts, block production, storage mechanisms (including online or offline digital, token or cryptocurrencies wallets), blockchain based software systems and/or other matters set out in this T&amp;C, to evaluate and render an informed decision as to the risks and merits of the acceptance of Tokens  and further acknowledges and agrees that it is able to bear such risks including risk of loss of Tokens and/or any risks or rewards accrued by reason of holding such Tokens and/or membership of the eosDAC. Member expressly acknowledges that it has obtained or procured sufficient information in order to make an informed decision as to whether or not to accept and hold Tokens.
-
-15. Member shall ensure that it understands and has significant experience of cryptocurrencies, blockchain systems and services, and that it fully understands the risks and mechanisms associated with the Token and Token Distribution, as well as the risks and mechanisms related to the use and custody of cryptocurrencies and/or other representations utilizing distributed ledger technology.
-
-16. Neither BlockMaker Ltd nor eosDAC shall be responsible for any loss of Tokens held by Member, or any situation rendering it impossible for Member to access Tokens, which may result from, by or through any actions or omissions of Member.
-
-17. It shall be the sole responsibility of Member to implement and appropriate measures to secure access to (a) any device associated with Member in connection with the acceptance, holding and use of Tokens; (b) private keys to Member&#39;s blockchain wallet or account; and (c) any other username, password or other login or identifying credentials. In the event that Member loses possession or control of Member&#39;s private keys or any device associated with Member&#39;s blockchain related account or is not able to otherwise provide Member&#39;s login or identifying credentials, Member may lose all of Member&#39;s Tokens and/or access to Member&#39;s blockchain related account. Neither BlockMaker Ltd nor eosDAC shall be under any obligation to recover or replace any Tokens rendered inaccessible and/or disabled thereby, or to provide any other compensation or reimbursement to Member thereof.
-
-18. Member acknowledges, understands and agrees that (a) the acceptance and holding of Tokens may have tax and regulatory consequences for Member; (b) Member is solely responsible for Member&#39;s compliance with any such or any tax or regulatory consequences of Member linked to the acceptance and holding of Tokens and/or membership of the eosDAC; (c) Member shall have consulted with and taken advice from Member&#39;s own tax and regulatory professional prior to accepting and holding the Tokens; and (d) neither BlockMaker Ltd nor eosDAC bears any responsibility or liability to Member with respect to any tax or regulatory consequences linked to Member&#39;s acceptance and holding of Tokens and/or membership of the eosDAC.
-
-
-
 **Members Representation and Warranties**
-
-19. By accepting any Token, Member agrees to be bound by the T&amp;C and in particular, Member represents and warrants that:
-
-&nbsp;&nbsp;&nbsp;(a) It is authorized and has full power and authority to accept and hold the Token according to the laws that apply in Member&#39;s jurisdiction of domicile or other applicable jurisdiction; 
-
-&nbsp;&nbsp;&nbsp;(b) It is authorized and has full power to execute, deliver and be bound by the T&amp;C and to carry out and perform its obligations thereunder;
-
-&nbsp;&nbsp;&nbsp;(c) If an individual, it is at least 18 years old and of sufficient legal age and capacity to accept and hold the Tokens and, if a legal person, it is validly constituted and in good standing under the laws of its domicile and each jurisdiction in which it operates or conducts business;
-
-&nbsp;&nbsp;&nbsp;(d) That the execution, delivery and performance of and by Member under the T&amp;C requires no approval, authorization or other action from any governmental or regulatory authority or any other person, entity or bureau, whatsoever, other than Member;
-
-&nbsp;&nbsp;&nbsp;(e) That the execution delivery and performance of and by Member under the T&amp;C shall not, and will not in the future, result in any violation of, be in conflict with or constitute a material default under (i) any provision of Member&#39;s constitutional documents (if applicable), (ii) any provision of any judgment, order or decree to which Member is a party, by which Member is bound or to which Member&#39;s material assets are subject, (iii) any material agreement, obligation, duty or commitment to which Member is a party or is bound, or (iv) any laws, regulations, rules or contracts applicable to Member.
-
-&nbsp;&nbsp;&nbsp;(f) It is not accepting and holding the Tokens for the purpose of any speculative investment; 
-
-&nbsp;&nbsp;&nbsp;(g) It will not use any Tokens for any illegal activity,  including but not limited to money laundering and the financing of terrorism; 
-
-&nbsp;&nbsp;&nbsp;(h) It shall be responsible for determining whether the acceptance and holding of the Tokens is appropriate for it; 
-
-&nbsp;&nbsp;&nbsp;(i) It shall accept and hold the Tokens exclusively for usage in accordance with the Constitution of the eosDAC; 
-
-&nbsp;&nbsp;&nbsp;(j) It understands the risks associated with acceptance and holding of the Tokens (including but not limited to the risks related to the non-development of the eosDAC and its operations).
-
-20. Upon request of or notification by BlockMaker Ltd or eosDAC, and from time to time, Member shall immediately provide information and documents that BlockMaker Ltd or eosDAC, in its or their sole discretion, deems necessary to comply with the laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain, including but not limited to judicial decrees, order, processes or arbitral awards. Such documents or information shall include, but not be limited to, certified copies of Member&#39;s passport, utility bills, government identification cards, sworn statements and information and documentation relating to persons or entities affiliated with Member. Member expressly and irrevocably consents to the disclosure of such information and documentation, and the recording or making of copies thereof, required for compliance with any laws, regulations, rules or agreements of or in relation to any applicable jurisdiction or blockchain. Failure by Member to comply with any such request for information or documentation may result in measures taken against such Member, including but not limited to the unregistering of such Member as a member the eosDAC.
-
-21. By accepting and holding any Tokens, Member represents and warrants that, to the extent required by any applicable law, Member complies with all anti-money laundering and prevention of terrorism rules, regulations and procedures and neither Member nor any person for whom Member is acting as agent or nominee in relation to the Tokens is subject to any sanctions administered or enforced by any government or regulatory body, or is organized or resident in any country or territory that is subject to any country or territory wide sanctions by any government or regulatory body, or is a politically exposed person.
-
-
-
 **Risks**
-
-22. Member acknowledges, understands and agrees that acceptance and holding of Tokens and storage thereof involves various risks and Member accepts the Tokens and membership of the eosDAC subject to such risks, as set out in the T&amp;C and otherwise, without any claim, right or remedy that Member may otherwise have at law, equity or otherwise, including but not limited to any claims for compensation, damages, refunds or redemptions, against BlockMaker Ltd, eosDAC or any member, employee, officer, director, consultant, advisor, parents, subsidiary, affiliate, servant or agent, past, present or future, thereof.
-
-23. Member acknowledges, understands and agrees to the risk that eosDAC may not be able to launch its network, develop its operations and/or provide any benefits to Member and, accordingly, prior to acceptance of Tokens, Member confirms that it has considered the risks, costs, and benefits of acceptance of Tokens, the Token Distribution, the T&amp;C and membership of the eosDAC, and, if necessary, shall have obtained any and all independent and professional advice in this regard.
-
-24. Member acknowledges, understands and agrees that Tokens and/or membership of the eosDAC shall, beyond such benefits set out in the Constitution, have no rights, uses, purpose, attributes, functionalities or features express or implied.
-
-25. Member acknowledges, understands and agrees that all matters set out in the T&amp;C, Constitution and Website are new and untested and that the eosDAC and related technology may not be capable of completion, implementation or adoption and, even if the eosDAC and related technology is completed, implemented and adopted, it may not function as intended and/or many not have the functionality that is necessary or desirable and/or may become outdated and/or may be subject to technical errors and delays.
-
-26. Member acknowledges, understands and agrees that the software associated with the eosDAC is under development, may undergo significant modifications over time and new related or replacement software may be developed from time to time and such development and modifications may result in added or reduced features to those set forth in this T&amp;C, the Constitution and/or the Website.
-
-27. Member acknowledges, understands and agrees that the development of the eosDAC and related software may be abandoned for a number of reasons including but not limited to lack of interest from Members or potential Members, lack of funding, lack of prospects or the departure of valuable personnel and technicians related to or utilized by the eosDAC.
-
-28. Member acknowledges, understands and agrees that Tokens may be or become non-transferrable following Member&#39;s acceptance of Tokens pursuant to the Token Distribution or thereafter, whether by reason of the Constitution or by technical error or inability, and/or may not be tradable on any exchanges.
-
-29. Member acknowledges, understands and agrees that the following further risks relate to the governance and/or operations of the Tokens and eosDAC:
-
-&nbsp;&nbsp;&nbsp;(a) Strong competition resulting in difficulty of eosDAC being voted/appointed as a main block producer of EOS blockchain;
-
-&nbsp;&nbsp;&nbsp;(b) Insufficient capacity to effectively implement activity and decisions of the eosDAC;
-
-&nbsp;&nbsp;&nbsp;(c) Crypto market crash and/or low EOS token inflation resulting in token payments being insufficient to cover operating costs of eosDAC;
-
-&nbsp;&nbsp;&nbsp;(d) Governance of eosDAC being subject to the control by small self interested groups;
-
-&nbsp;&nbsp;&nbsp;(e) DDoS or &quot;flood attacks&quot;;
-
-&nbsp;&nbsp;&nbsp;(f) Regulatory and Legal threats;
-
-&nbsp;&nbsp;&nbsp;(g) Inappropriate content on EOS blockchain;
-
-&nbsp;&nbsp;&nbsp;(h) Governance paralysis or other inability to reach quorum or effect governance decisions;
-
-&nbsp;&nbsp;&nbsp;(i) Difficulties arising from use of block production revenue to pay for infrastructure including but not limited to difficulties in exchange of EOS tokens for fiat currency;
-
-&nbsp;&nbsp;&nbsp;(j) Delays in implementation of EOSIO software.
-
-30. Member acknowledges, understands and agrees that the regulatory status of decentralized autonomous communities, cryptographic tokens, digital assets, blockchain technology and distributed ledger technology is unsettled and/or unclear in many jurisdictions, and it is difficult to predict how or whether international, governmental, regulatory and judicial authorities will regulate such technologies and organizations and how or whether such international, governmental, regulatory and judicial authorities may interpret or modify existing laws, regulations or rules that affect such matters. Member acknowledges, understands and agrees that such interpretation or modification may have adverse consequences to the Tokens, and their holders and usage thereof, and the eosDAC; such interpretations and modifications including but not limited to characterizing the Tokens as regulated financial instruments or characterizing the eosDAC as a regulated investment vehicle.  Member acknowledges, understands and agrees the eosDAC may cease operations in any jurisdiction, and discontinue membership of any persons residing or affected by any jurisdiction, in the event that the laws or regulations in such jurisdictions render it unlawful or commercially undesirable to maintain any link with such jurisdictions.
-
-31. Member acknowledges, understands and agrees that the embryonic nature of decentralized autonomous communities, cryptographic tokens, digital assets, blockchain technology and distributed ledger technology may result in increased and/or disproportionate oversight and scrutiny from international, governmental, regulatory and judicial authorities with respect the Tokens and/or the eosDAC (or persons or entities related to or interacting therewith) and that there can be no assurance that such authorities will not examine same or pursue investigatory, enforcement, compliance or other actions against the Tokens or the eosDAC and members thereof (or persons or entities related thereto or interacting therewith). Member acknowledges, understands and agrees that such actions may subject the eosDAC and/or its members to judgments, settlements, fines or penalties and/or may cause the eosDAC to restructure the organization and the benefits and obligations thereunder and lead to damage to the eosDAC&#39;s reputation, operational costs or effectiveness.
-
-
-
 **Important Disclaimers**
-
-32. The T&amp;C, Website, Token Distribution and membership of the eosDAC are not intended to, and shall not, be considered as an invitation to any person enter into an investment and are not intended to, and do not, constitute or relate in any way as an offering of securities in any jurisdiction. Neither the T&amp;C nor the Website includes or contains any information that may or should be considered a recommendation or that may be used as a basis for any investment decision.
-
-33. Any information in the T&amp;C or Website is given for general information purpose only and neither BlockMaker Ltd nor eosDAC r any member, employee, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof, shall be construed as providing any representation or warranty as to the accuracy and completeness of such information.
-
-34. The Tokens are not, and are not intended to be, shares or securities of any type and do not entitle the holder thereof to any ownership or other interest in BlockMaker Ltd or any person or entity related thereto, and are merely the representation of the holder&#39;s entitlement to membership of the eosDAC and the means by which the governance of the eosDAC is effect.
-
-35. Neither the T&amp;C nor the Website contains, or should be considered to, contain any representations, warranties, promises or guarantees, express, implied or statutory, arising or related to the Tokens or the eosDAC and same are expressly disclaimed, including but not limited to any representations, warranties, promises or guarantees, express, implied or statutory, relating to title, non infringement, merchantability, usage, suitability or fitness for any particular purpose, or as to workmanship or technology (including technical coding), or the absence of any defects, whether latent or patent.
-
-36. By accepting Tokens, Member accepts the T&amp;C, including but not limited to the waiver by Member of any claim, right or remedy that Member may otherwise have at law, equity or otherwise, against BlockMaker Ltd, eosDAC and any member, employee, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof, arising out of or related to the usage of the Token or the membership of the eosDAC, save and except with respect to the benefits and obligations expressly set out in the Constitution.
-
-37. eosDAC shall use best endeavours to develop, launch and carry out the decentralized autonomous community, the software and blockchain tokens to enable membership of the decentralized autonomous community, effect automated governance thereof and the operations of the decentralized autonomous community, all as described in the Constitution and the Website. There is, however, no guarantee (and any such guarantee is expressly disclaimed by the T&amp;C) that such decentralized autonomous community, software and blockchain token and/or operations shall be successfully delivered or realized as described in this T&amp;C, the Constitution or the Website, or at all. Member acknowledges, understands and agrees to said risks, and further, to the fullest extent permitted by law, and in relation to same, expressly waives, relinquishes and releases, as against BlockMaker Ltd, eosDAC and any member, employee, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof (collectively &quot;Disclaimed Parties&quot;), any claim, right or remedy that Member may otherwise have at law, equity or otherwise.
-
-38. To the fullest extent permitted by law, and except as otherwise expressly stated in this T&amp;C, the Disclaimed Parties disclaim any representations, warranties, promises or guarantees arising out of or related to BlockMaker Ltd, the Token Distribution, the Website, the Tokens and/or membership of the eosDAC, the eosDAC, and further, to the fullest extent permitted by law, and in relation to same, Member expressly waives, relinquishes and releases, as against the Disclaimed Parties, any claim, right or remedy that Member may otherwise have at law, equity or otherwise.
-
-39. Member expressly acknowledges, understands and agrees that it is accepting and holding the Tokens and maintaining membership of the eosDAC, at Member&#39;s sole risk and that same are provided to, and used and acquired by, Member on an &quot;AS IS&quot; and &quot;AS AVAILABLE&quot; basis without any representations, warranties, promises or guarantees whatsoever by the Disclaimed Parties and Member shall have relied on its own examinations and investigations thereof and further, to the fullest extent permitted by law, and in relation to same,  Member expressly waives, relinquishes and releases, as against the Disclaimed Parties, any claim, right or remedy that Member may otherwise have at law, equity or otherwise.
-
-40. Member expressly acknowledges, understands and agrees that eosDAC may be considered an unincorporated association and, notwithstanding any provisions of the T&amp;C or Constitution, any liabilities incurred by or attributed to the eosDAC may be considered as the unlimited liabilities of each Member of the eosDAC, jointly or severally.
-
-
-
 **Limitation of Liability**
-
-41. To the fullest extent permitted by applicable law, neither BlockMaker Ltd, eosDAC nor any member, employee, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof (&quot;Released Parties&quot;), assumes any liability or responsibility for any loss arising or related to the Token Distribution or any transfer or assignment of Tokens, or any technical, interruption or malfunction of thereof.
-
-42. To the fullest extent permitted by applicable law, Member disclaims any right or cause of action against the Released Parties, of any kind and in any jurisdiction, that would give rise to any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special and including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses (collectively, &quot;Damages&quot;)  whatsoever, on the part of any of the Released Parties. Each of the Released Parties shall not be liable to Member for any type of Damages, even if and notwithstanding the extent any of the Released Parties has been advised of the possibility of such Damages. Member agrees not to seek any refund, compensation or reimbursement from any of the Released Parties, regardless of the reason, and regardless of whether the reason is identified in the T&amp;C.
-
-43. Without prejudice to the foregoing, in no circumstances shall the aggregate liability of the Released Parties, whether in contract, warrant, tort or other theory, for Damages to Member under this T&amp;C exceed the amount of monetary value received by BlockMaker Ltd or eosDAC (if any) in exchange for the Member&#39;s acceptance and holding of the Tokens pursuant to the Token Distribution.  
-
-44. Member acknowledges, understands and agrees that none of the Released Parties shall be liable, and such Released Parties disclaim all liability to Member, in connection with any force majeure event, including acts of God, labour disputes or other industrial disturbances, electrical, telecommunications, hardware, software or other utility failures, software or smart contract bugs or weaknesses, earthquakes, storms, or other nature-related events, blockages, embargoes, riots, acts or orders of government, acts of terrorism or war, technological change, changes in interest rates or other monetary conditions, and, for the avoidance of doubt, changes to any blockchain-related technology.
-
-45. To the fullest extent permitted by applicable law, Member releases the Released Parties from any and all responsibility, liability, claims, demands, and/or Damages of every kind and nature, known and unknown (including, but not limited to, claims of negligence), including but not limited to claims arising out of or related to disputes between Member and the acts or omissions of third parties, save and except with respect to the benefits and obligations expressly set out in the Constitution.  
-
-46. Indemnification: To the fullest extent permitted by any applicable law, Member shall indemnify, defend and hold harmless and reimburse the Released Parties from and against any and all actions, proceedings, claims, Damages, demands and actions (including without limitation fees and expenses of counsel), incurred by any of the Released Parties arising from or relating to: (i) Member&#39;s acceptance or use of Tokens; (ii) Member&#39;s responsibilities or obligations under the T&amp;C; (iii) Member&#39;s breach of or violation of the T&amp;C; (iv) any inaccuracy in any representation or warranty of Member; (v) Member&#39;s violation of any rights of any other person or entity; and/or (vi) any act or omission of Member that is negligent, unlawful or constitutes willful misconduct. The Released Parties, or any of them, reserve the right to exercise sole control over the defense, at Member&#39;s expense, of any claim subject to indemnification hereunder. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in the T&amp;C and/or Constitution.
-
-
-
 **Transfer of Tokens**
-
-47. Member acknowledges, understands and agrees that Tokens shall be transferable, and membership of the eosDAC assignable upon transfer of Tokens, in the manner set out in the Constitution.
-
-48. As at the date of transfer of the Tokens, as determined in accordance with the Constitution, the transferee thereof shall be entitled and subject to all unrealized benefits and obligations accruing to or with respect to the Tokens or in the membership of the eosDAC at such date and all benefits and obligations thereafter, and the transferor shall, as at said date of transfer and thereafter, cease to be entitled or subject to any benefits or obligations with respect to the transferred Tokens, or in the membership of the eosDAC.
-
-49. As at the date of transfer of Tokens, the transferee thereof shall, upon acceptance and holding of such Tokens, be bound by the terms and conditions of the T&amp;C.
-
-
-
 **Entire Agreement and Severability**
-
-50. This T&amp;C, including any exhibits attached hereto and the materials incorporated herein by reference, constitutes the entire agreement between the parties hereto and supersedes all prior or contemporaneous agreements and understandings, both written and oral, between such parties with respect to the subject matter hereof, including, without limitation, any public or other statements or presentations made by any of BlockMaker Ltd, eosDAC or any member, employee, officer, director, consultant, advisor, parent, subsidiary affiliate, servant or agent, past, present or future, thereof.
-
-51. If any of the provisions of this T&amp;C are deemed to be invalid, void or unenforceable under applicable law, the remaining provisions shall continue in full force and effect.
-
-
-
 **Electronic Communications**
-
-52. Member agrees and acknowledges that all agreements, notices, disclosures and other communications provided to Member pursuant to the T&amp;C or in relation to Member&#39;s acceptance and holding of Tokens, including but not limited Member&#39;s acceptance and holding of Tokens pursuant to the Token Distribution, may be provided to Member in electronic form.
-
-
-
 **Applicable Law**
-
-53. The governing law for the purposes only of the interpretation and construction of the provisions of the T&amp;C, and the contractual relations created thereby, shall be the laws of Anguilla.
-
-
-
 **Dispute Resolution**
 
-54. Informal Dispute Resolution: Member shall cooperate in good faith to resolve any dispute, controversy or claim arising out of, relating to or in connection with the T&amp;C, including with respect to the formation, applicability, breach, termination, validity or enforceability thereof (&quot;Dispute&quot;). If the parties to any Dispute are unable to resolve a Dispute within ninety (90) days of notice of such Dispute being received by all parties thereof, such Dispute shall be finally settled by Binding Arbitration, as defined hereinafter.
-
-55.  Binding Arbitration: Any Dispute not resolved within 90 days as set forth hereinbefore shall be referred to and finally resolved by arbitration under the London Court of International Arbitration (LCIA) rules in effect at the time of the arbitration, except as they may be modified herein or by mutual agreement of the parties to such arbitration. The number of arbitrators shall be one who shall be selected by the parties to the arbitration. The seat, or legal place, of arbitration shall be London, England. The language to be used in the arbitral proceedings shall be English. The governing law of the T&amp;C, for the purposes only of the interpretation and constructions of the provisions of the Constitution, and the contractual relations created thereby, shall be the laws of Anguilla. The arbitration award shall be final and binding on the parties thereto (&quot;Binding Arbitration&quot;). Member undertakes to carry out any award without delay and waive its right to any form of recourse insofar as such waiver can validly be made. Judgment upon the award may be entered by any court having jurisdiction thereof or having jurisdiction over the relevant party or its assets. Without prejudice to any indemnification provision of the T&amp;C, each party to arbitration shall pay their respective attorneys&#39; fees and expenses. 
-
-56. No Class Arbitrations, Class Actions or Representative Actions: Any dispute arising out of or related to the T&amp;C shall be personal to the parties to the arbitration and shall not be brought as a class arbitration, class action or any other type of representative proceeding. There shall be no class arbitration or arbitration in which an individual attempts to resolve a dispute as a representative of another individual or group of individuals.
-
-57. The provisions of the T&amp;C relating to Dispute Resolution shall become operational only in the event that the relevant dispute does not fall within the ambit and/or jurisdiction of the dispute resolution provisions set out in the Constitution of the eosDAC. To the extent that any dispute falls within the ambit and/or jurisdiction of the Constitution of the eosDAC, whether exclusively or concurrently with the T&amp;C, Member shall first and exclusively seek dispute resolution pursuant to the dispute resolution provisions of the Constitution.
-
 _Last Modified March 11th, 2019_
+
+# **TERMS AND CONDITIONS**
+
